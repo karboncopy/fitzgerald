@@ -1,0 +1,74 @@
+body {
+ font-family: helvetica, arial, sans-serif;
+
+}
+
+/* MENU */
+
+.menu >ul, .page-navi>ul{
+ float: left;
+ width:100%;
+ }
+
+.menu >ul li a, .menu >ul li, .page-navi>ul li a, .page-navi>ul li {
+ float: left;
+ }
+
+
+
+
+.menu >ul li, .page-navi>ul li {
+ position: relative;
+}
+
+.menu >ul li a,.page-navi>ul li a {
+ 
+line-height:2em;
+ 
+}
+
+
+
+
+/* Submenu */
+
+
+
+.menu >ul li ul, .page-navi>ul li ul {
+ display: none;
+ position: absolute;
+ left: 0;
+ top: 100%;
+
+}
+
+.menu >ul li:hover > ul, .page-navi>ul li:hover>ul {
+ display: block;
+ z-index:100;
+}
+
+.menu >ul li ul li, .menu>ul li ul li a, .page-navi>ul li ul li, .page-navi>ul li ul li a{
+ float: none;
+
+}
+
+.menu> ul li ul li, .page-navi>ul li ul li {
+ _display: inline; /* for IE6 */
+}
+
+.menu >ul li ul li a, .page-navi>ul li ul li a {
+ display: block;
+}
+
+/* SUBSUB Menu */
+
+.menu> ul li ul li ul, .page-navi>ul li ul li ul {
+ display: none;
+}
+
+.menu >ul li ul li:hover ul, .page-navi>ul li ul li:hover ul {
+ left: 100%;
+ top: 0;
+}
+
+

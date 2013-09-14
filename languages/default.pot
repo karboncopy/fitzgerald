@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: generic\n"
+"POT-Creation-Date: 2013-04-01 21:59+0200\n"
+"PO-Revision-Date: 2013-04-01 21:59+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:16 ../archive.php:19 ../custom-page.php:22 ../index.php:27
+#: ../page.php:17 ../single.php:26
+msgid "Not Found"
+msgstr ""
+
+#: ../404.php:18
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: ../archive.php:10 ../index.php:13 ../page.php:10 ../search.php:9
+#: ../single.php:12
+msgid "Filed under&#58;"
+msgstr ""
+
+#: ../archive.php:10 ../index.php:14 ../page.php:10 ../search.php:9
+#: ../single.php:13
+msgid " by "
+msgstr ""
+
+#: ../comments.php:18
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../functions.php:16
+msgid "Header Menu"
+msgstr ""
+
+#: ../functions.php:16
+msgid "Extra Menu"
+msgstr ""
+
+#: ../functions.php:49
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../functions.php:52
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:59
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:59 ../functions.php:76
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:76
+msgid "Pingback:"
+msgstr ""
+
+#: ../search.php:18
+msgid "Sorry, we couldn't find the page you were looking for."
+msgstr ""
+
+#: ../sidebar.php:7
+msgid "Calendar"
+msgstr ""
+
+#: ../sidebar.php:11
+msgid "Categories"
+msgstr ""
+
+#: ../sidebar.php:16
+msgid "Archives"
+msgstr ""
+
+#: ../sidebar.php:24
+msgid "Meta"
+msgstr ""
